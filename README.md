@@ -1,5 +1,4 @@
 # smart-city-queue-optimizer
-A smart city parking system that automates slot allocation and optimizes vehicle queue management.
 
 A Streamlit-based intelligent queue optimizer for vehicle parking that enables efficient slot allocation, real-time slot tracking, reservation handling, and accessibility services — built using Python, Streamlit, MySQL, and Plotly.
 
